@@ -27,6 +27,10 @@ int main()
 	{
 		cout << "성인";
 	}
+	else if (n < = 200)
+	{
+		cout << "나이가 너무 많습니다.";
+	}
 
 	return 0;
 }
