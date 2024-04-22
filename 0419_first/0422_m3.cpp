@@ -23,7 +23,7 @@ int main()
 	{
 		cout << "고등학생";
 	}
-	else if(20 >= n)
+	else if( n > 19 )
 	{
 		cout << "성인";
 	}
