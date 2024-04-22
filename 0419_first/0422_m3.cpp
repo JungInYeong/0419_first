@@ -19,7 +19,7 @@ int main()
 	{
 		cout << "중학생";
 	}
-	else if (n <= 17 && n <= 19)
+	else if (17 <= n && n <= 19)
 	{
 		cout << "고등학생";
 	}
